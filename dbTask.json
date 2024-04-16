@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": 123,
+      "title": "Animal warfare",
+      "description": "Adopt a cat",
+      "due_date": "January 28, 2022",
+      "status": "Completed"
+    },
+    {
+      "id": 345,
+      "title": "Expertizing",
+      "description": "Study all day long",
+      "due_date": "April 28, 2024",
+      "status": "Incomplete"
+    },
+    {
+      "id": 678,
+      "title": "Rope studies",
+      "description": "what a knot!",
+      "due_date": "September 21, 2024",
+      "status": "Incomplete"
+    }
+  ]
+}
