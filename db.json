@@ -1,7 +1,7 @@
 {
     "projects": [
       {
-        "id": 123,
+        "id": 1,
         "title": "Employee Onboarding Platform",
         "description": "An employee onboarding platform streamlines the process of integrating new hires into a company. This platform can handle document submissions, training schedules, and essential introductions in a structured manner.",
         "started_at": "",
@@ -9,7 +9,7 @@
         "status": "Incomplete"
       },
       {
-        "id": 345,
+        "id": 2,
         "title": "Invoice processing App",
         "description": "This application focuses on transforming traditional paper-based processes into digital formats, suitable for small to medium-sized enterprises. A common application could be for invoice processing, where the app can handle the creation, approval, and payment processes digitally",
         "started_at": "",
@@ -17,7 +17,7 @@
         "status": "Incomplete"
       },
       {
-        "id": 678,
+        "id": 3,
         "title": "ChatGPT chatbot",
         "description": "ChatGPT, developed by OpenAI, is designed to generate human-like text based on the input it receives, making it a strong candidate for customer support applications where conversational abilities are crucial.",
         "started_at": "",
