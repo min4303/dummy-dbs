@@ -1,4 +1,4 @@
-
+{
   "projects": [
     {
       "id": 1,
@@ -39,3 +39,4 @@
       "technologies": ["Vue.js", "Tailwind CSS", "Node.js", "Express", "OpenAI's ChatGPT", "WebSockets"]
     }
   ]
+}
