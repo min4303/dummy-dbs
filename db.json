@@ -1,28 +1,41 @@
-{
-    "projects": [
-      {
-        "id": 1,
-        "title": "Employee Onboarding Platform",
-        "description": "An employee onboarding platform streamlines the process of integrating new hires into a company. This platform can handle document submissions, training schedules, and essential introductions in a structured manner.",
-        "started_at": "",
-        "img_url":"",
-        "status": "Incomplete"
-      },
-      {
-        "id": 2,
-        "title": "Invoice processing App",
-        "description": "This application focuses on transforming traditional paper-based processes into digital formats, suitable for small to medium-sized enterprises. A common application could be for invoice processing, where the app can handle the creation, approval, and payment processes digitally",
-        "started_at": "",
-        "img_url":"",
-        "status": "Incomplete"
-      },
-      {
-        "id": 3,
-        "title": "ChatGPT chatbot",
-        "description": "ChatGPT, developed by OpenAI, is designed to generate human-like text based on the input it receives, making it a strong candidate for customer support applications where conversational abilities are crucial.",
-        "started_at": "",
-        "img_url":"",
-        "status": "Incomplete"
-      }
-    ]
-  }
+
+  "projects": [
+    {
+      "id": 1,
+      "title": "Employee Onboarding Platform",
+      "description": "An employee onboarding platform streamlines the process of integrating new hires into a company. This platform can handle document submissions, training schedules, and essential introductions in a structured manner.",
+      "started_at": "YYYY-MM-DD",
+      "img_url": "url_to_image",
+      "status": "Incomplete"
+    },
+    {
+      "id": 2,
+      "title": "Invoice Processing App",
+      "description": "This application focuses on transforming traditional paper-based processes into digital formats, suitable for small to medium-sized enterprises. A common application could be for invoice processing, where the app can handle the creation, approval, and payment processes digitally",
+      "started_at": "YYYY-MM-DD",
+      "img_url": "url_to_image",
+      "status": "Incomplete"
+    },
+    {
+      "id": 3,
+      "title": "ChatGPT Chatbot",
+      "description": "ChatGPT, developed by OpenAI, is designed to generate human-like text based on the input it receives, making it a strong candidate for customer support applications where conversational abilities are crucial.",
+      "started_at": "YYYY-MM-DD",
+      "img_url": "url_to_image",
+      "status": "Incomplete"
+    }
+  ],
+  "technologies": [
+    {
+      "project_id": 1,
+      "technologies": ["Vue.js", "Bootstrap", "CSS", "Node.js", "Express", "MongoDB", "JWT", "Nodemailer"]
+    },
+    {
+      "project_id": 2,
+      "technologies": ["Vue.js", "Vuetify", "Node.js", "Express", "PostgreSQL", "Stripe", "PDF Generation"]
+    },
+    {
+      "project_id": 3,
+      "technologies": ["Vue.js", "Tailwind CSS", "Node.js", "Express", "OpenAI's ChatGPT", "WebSockets"]
+    }
+  ]
